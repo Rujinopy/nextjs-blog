@@ -19,10 +19,9 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hi! Welcome to my little space on internet. My name is Athirath Yamsumruan </p>
-        <p>
+        <p>Hi! Welcome to my little space on internet. </p>
+        <p className=''>
           The name is quite long so I usually go with Ruji. You can call me with that name!
-          I'm self taught web developer and I'm currently working in my own projects.
         </p>
       </section>
 
