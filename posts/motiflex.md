@@ -1,5 +1,5 @@
 ---
-title: 'FicFork : turn fiction into a manga with crowdfunding.'
+title: 'Motiflex: an AI powered pushup counter'
 date: '2022-10-01'
 ---
 
